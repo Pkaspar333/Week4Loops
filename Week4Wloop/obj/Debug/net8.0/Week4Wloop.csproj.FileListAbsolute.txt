@@ -1,0 +1,14 @@
+C:\Users\Kaspar P\source\repos\Week4Loops\Week4Wloop\bin\Debug\net8.0\Week4Wloop.exe
+C:\Users\Kaspar P\source\repos\Week4Loops\Week4Wloop\bin\Debug\net8.0\Week4Wloop.deps.json
+C:\Users\Kaspar P\source\repos\Week4Loops\Week4Wloop\bin\Debug\net8.0\Week4Wloop.runtimeconfig.json
+C:\Users\Kaspar P\source\repos\Week4Loops\Week4Wloop\bin\Debug\net8.0\Week4Wloop.dll
+C:\Users\Kaspar P\source\repos\Week4Loops\Week4Wloop\bin\Debug\net8.0\Week4Wloop.pdb
+C:\Users\Kaspar P\source\repos\Week4Loops\Week4Wloop\obj\Debug\net8.0\Week4Wloop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaspar P\source\repos\Week4Loops\Week4Wloop\obj\Debug\net8.0\Week4Wloop.AssemblyInfoInputs.cache
+C:\Users\Kaspar P\source\repos\Week4Loops\Week4Wloop\obj\Debug\net8.0\Week4Wloop.AssemblyInfo.cs
+C:\Users\Kaspar P\source\repos\Week4Loops\Week4Wloop\obj\Debug\net8.0\Week4Wloop.csproj.CoreCompileInputs.cache
+C:\Users\Kaspar P\source\repos\Week4Loops\Week4Wloop\obj\Debug\net8.0\Week4Wloop.dll
+C:\Users\Kaspar P\source\repos\Week4Loops\Week4Wloop\obj\Debug\net8.0\refint\Week4Wloop.dll
+C:\Users\Kaspar P\source\repos\Week4Loops\Week4Wloop\obj\Debug\net8.0\Week4Wloop.pdb
+C:\Users\Kaspar P\source\repos\Week4Loops\Week4Wloop\obj\Debug\net8.0\Week4Wloop.genruntimeconfig.cache
+C:\Users\Kaspar P\source\repos\Week4Loops\Week4Wloop\obj\Debug\net8.0\ref\Week4Wloop.dll
